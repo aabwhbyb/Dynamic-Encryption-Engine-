@@ -58,7 +58,7 @@ https://www.jqueryscript.net/
 
 ```html
 
-<script src="jquery_plugins.js"></script>
+<script src="jquery_hosin_plugin.js"></script>
 <script src="Habib_100_000.js"></script>
 
 <script>
