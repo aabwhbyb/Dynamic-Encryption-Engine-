@@ -85,6 +85,7 @@ $( "#text2" ).text( hosin(text1,7600) );
 
 ## فك سريع
 
+![untitledy5y55](https://github.com/user-attachments/assets/a803f4bf-7453-4a00-8fe4-9c430279318b)
 
 
 
