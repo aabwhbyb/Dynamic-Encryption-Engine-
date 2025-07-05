@@ -92,9 +92,6 @@ $( "#text2" ).text( hosin(text1,7600) );
 
 
 
-##  🔸 الترخيص:
-  
-  مشروع مفتوح المصدر تحت رخصة MIT – يمكن استخدامه وتعديله بحرية.
 
 
 ##  🔸 ملاحظة:
@@ -114,9 +111,11 @@ $( "#text2" ).text( hosin(text1,7600) );
 
 
 
+
 ![qrcoder](https://github.com/user-attachments/assets/369a55cb-d668-4518-a40e-34037feac631)
 
 https://top4top.io/downloadf-3471ryf6b1-zip.html
+
 
 
 
